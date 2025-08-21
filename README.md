@@ -141,5 +141,3 @@ This repository presents a comprehensive 68-page academic analysis investigating
 - **Counter-intuitive findings** challenging conventional wisdom
 - **Policy implications** for crime prevention strategies
 
-## 📋 **Repository Structure**
-
